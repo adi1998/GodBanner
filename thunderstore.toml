@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "zerp"
 name = "God_Banner"
-versionNumber = "1.0.0"
+versionNumber = "0.1.0"
 description = "Allows you to ban certain gods from appearing in runs."
 websiteUrl = "https://github.com/adi1998/GodBanner"
 containsNsfwContent = false
