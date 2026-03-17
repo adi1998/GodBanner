@@ -12,7 +12,7 @@ While the mod has been tested decently well it is recommended to backup your sav
 
 Configure the mod using ImGui (Default imgui toggle keybind: INSERT). A ✅ means the god is banned.<br>If the ImGui interface seems unresponsive try disabling V-sync and external frame limiters if enabled.
 
-![Imgui](/images/imgui.png)
+![Imgui](images/imgui.png)
 
 ## Issues
 
