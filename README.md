@@ -16,4 +16,4 @@ Configure the mod using ImGui (Default imgui toggle keybind: INSERT). A ✅ mean
 
 ## Issues
 
-Report any issues [here](https://github.com/adi1998/GodBanner/issues) or on [Discord](https://discord.gg/bKvJTAJj)
+Report any issues [here](https://github.com/adi1998/GodBanner/issues) or on [Discord](https://discord.gg/KuMbyrN)
