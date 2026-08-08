@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- Add fallback in case banning leads to an empty elligible loot list.
+
 ## [0.1.0] - 2026-03-17
 
 - Initial Release
